@@ -1,3 +1,3 @@
 # Projeto
  Projeto Recode
- [Acesse meu projeto] (https://projeto-recode-pi.vercel.app/)
+ <a href="https://projeto-recode-pi.vercel.app/" target="_blank">Acesse meu projeto</a>
